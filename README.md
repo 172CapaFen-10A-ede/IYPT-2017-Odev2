@@ -23,7 +23,7 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Fizikçiler kahve içmekten hoşlanır, ancak bir fizikçi elinde içinde kahve bulunan bir kupa ile laboratuvara giderken birtakım problemler yaşayabilir. Bir insan kahve dolu bir kupayla yürürken kahve çalkalanabilir hatta dökülebilir. Bu durumları etkileyen birçok farklı durum mevcuttur. Eğer elimizelimizde kahve dolu bir kupayla yürüdüğümüzde bu kupadan kahve dökülmemesini istiyorsak yürüme hızımız, şiddetimiz, kupanın büyüklüğü, kupa içindeki sıvı miktarı, sıvı yoğunluğu, kupanın tutulduğu yükseklik, kupayı tutuş durumumuz (sıkı veya gevşek tutmamız), yürüdüğümüz yolun doğrusal veya kıvrımlı olması, merdivenlerden çıkmamız bu kupadaki kahvenin dökülüp dökülmemesinde veya kahvenin çalkalanma durumunda etkilidir. Dolayısıyla bu projenin temel amacını bir kupa kahveyle yüründüğünde çalkalanma veya dökülme gibi ortaya çıkabilecek sonuçların hangi parametrelere bağlı olduğunu ve bu parametrelerin bu sonuçları nasıl etkilediğini araştırmak oluşturur. Bu projenin yöntemi çalkalanma veya dökülme durumlarına ve bu durumların farklı şiddetlerde ortaya çıkmasına neden olan parametrelerin her birini deneylerle gözlemleyip sonuç çıkarmak ve bunları kaydetmektir. Böylece bu proje bittiğinde elimizde kahve dolu bir fincanla yürürken kahvenin daha az çalkalanması veya dökülmemesini nasıl sağlayacağımızı öğreneceğiz. 
 # Giriş (Introduction)
  Bu projedeki problemimiz belli etmenler sebebiyle kupadaki kahvenin dökülmesidir.
 
