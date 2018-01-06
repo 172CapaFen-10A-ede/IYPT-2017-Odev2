@@ -25,61 +25,95 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 # Özet (Abstract)
 Buraya Ödev-1'de yazdığınız özeti yazınız. 
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+ Bu projedeki problemimiz belli etmenler sebebiyle kupadaki kahvenin dökülmesidir.
+
+ Bu projenin asıl amacı günlük hayatta kupada taşıdığımız kahvenin dökülme olasılığını minimuma indirmektir. 
+
+Hipotezlerimiz:
+
+• Eğer yürüme hızımızı arttırırsak kahvenin çalkalanma durumu artar.
+
+•  Eğer kupadaki kahvenin yoğunluğunu arttırırsak kahvenin çalkalanma durumu azalır.
+
+• Eğer kupadaki kahveyle merdiven çıkarsak kahvenin çalkalama durumu inmeye göre azalır.
+
+• Eğer kupadaki kahveyi yüksekte tutarak düz yolda yürürsek kupadaki kahvenin çalkalama durumu artar.
+
+• Eğer kupadaki kahvenin miktarını iki katına çıkarırsak çalkalama miktarı artar.
+
+  
+
+Bizim deneylerimizde diğer yapılmış olan deneylerden farklı olarak teknolojik aletler yardımıyla kupadaki kahveyi hareket ettirmek yerine insan gücünden faydalanılmıştır.
+
+ Bundan önceki yapılan çalışmalarda merdiven inip çıkmanın kupadaki kahvenin çalkalanmasına etkisi araştırılmamıştı. Biz de literatürdeki bu eksiği tamamlamak için bu konuyu da ele aldık.
+
+Bizim bu projedeki hedefimiz günlük hayatta kahve taşımanın bir sorun haline gelmesini önlemektir.
 # Materyal ve Yöntem (Experimental Setup)
+Çalışmamızı yaparken deneysel yöntemler kullandık.
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+Evrenimiz yer çekiminin 9.807 m/s² olan Dünya, çalışma ise sahamız okuldur.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+Veri toplama araçlarımız kamera ve kronometredir.
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
+Hızlı ve yavaş yürüdüğümüzde, merdiven inip çıktığımızda, kahvenin yoğunluğunu ve miktarını değiştirdiğimizde kupanın içindeki kahvenin çalkalanma durumunun nasıl değiştiğini gözlemledik. 
 
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
+Deney malzemeleri: 
 
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
+Yarı saydam cam kupa
 
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+Kahve
+
+Sıcak su
+
+Karıştırma çubuğu
+
+Deneysel süreçler:
+
+1 orta boy kağıt bardak dolusu sıcak suya bir paket Nescafe ikisi bir arada kahve koyduk ve karıştırma çubuğuyla karıştırdık. Kahveyi deney kupamıza boşalttık. 
+
+1) Elimizdeki kupayla düz yolda hızlı ve yavaş yürüyerek kupadaki kahvenin sallanma durumunu gözlemledik.
+
+Sabit değişkenlerimiz  kupanın büyüklüğü, kahvenin yoğunluğu ve kahve miktarı,yüksekliğin aynı olnasından dolayı yer çekimidir. Bağımsız değişkenimiz ise yürüme hızımız, bağımlı değişkenimiz kahvenin çalkalanmasındaki değişimdir.
+
+2) Elimizdeki kupayı yüksekte ve alçakta tutarak düz yolda yürüdük ve kahvenin sallanma durumunu gözlemledik.
+
+Sabit değişkenlerimiz kupanın büyüklüğü kahvenin yoğunluğu, yürüme hızımız ve kahve miktarıdır.
+
+Bağımsız değişkenimiz kupanın bulunduğu yükseklik ve buna bağlı olarak yerçekimidir. Bağımlı değişkenimiz ise kupadaki kahvenin çalkalama durumudur.
+
+3) Elimizdeki kahve dolu kupa ile merdiven çıktık ve indik.  
+
+Sabit değişkenlerimiz kahvenin yoğunluğu, kupanın büyüklüğü, kahve miktarı ve yürüme hızımızdır. Bağımsız değişkenimiz yürüdüğümüz yolun eğimidir. Bağımlı değişkenimiz ise kupadaki kahvenin çalkalanma durumudur. 
+
+4) Kupadaki kahvenin miktarını yoğunluğunu değiştirmeyecek şekilde iki katına çıkardık ve 
+
+düz yolda yürüdük.
+
+Sabit değişkenlerimiz kupanın büyüklüğü, kahvenin yoğunluğu, yürüme hızımızdır. Bağımsız değişkenimiz kupadaki kahve miktarıdır. 
+
+5) Kupadaki kahvenin yoğunluğunu iki katına çıkarmak için bir bardak suya iki paket kahve ekledik ve sabit hızla düz yolda yürüdük. Sabit değişkenlerimiz kahvenin yoğunluğu, kupanın büyüklüğü ve yürüme hızımızdır. Bağımsız değişkenimiz kahvenin yoğunluğudur. 
+
+
+Bu deneylerin tümünde bağımlı değişken kupadaki kahvenin çalkalanma durumudur.
+
+  Deneyler okul koridoru ve merdiveninde grup üyeleri tarafından yapılmıştır. Deneyler iki günde her bir etmen için ikişer defa denenmiştir.
+
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+•Elimizde bulunan kupadaki kahveyle hızlı yürüdüğümüzde yavaş yürüme durumuna göre kahve daha çok çalkalanmıştır.
+
+•Elimizde bulunan kupadaki kahveyle merdiven indiğimizde merdiven çıkma durumuna göre kahve daha çok çalkalanmıştır.
+
+•Yoğunluğu daha az olan kahve çok olana göre daha çok çalkalanmıştır.
+
+•Miktarı çok olan kahve az olana göre daha çok çalkalanmıştır.
+
+•Yüksekte tutarak yürüdüğümüz kahve alçakta tutarak yürüdüğümüze göre daha çok çalkalanmıştır.
+
+ 
+
+Belirli uygulamalardan faydalanıp grafiklerle projemizi deateklerek ileride deneyimizi geliştireceğiz. 
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
