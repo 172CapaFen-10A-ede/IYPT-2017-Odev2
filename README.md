@@ -41,7 +41,7 @@ Hipotezlerimiz:
 
 • Eğer kupadaki kahvenin miktarını iki katına çıkarırsak çalkalama miktarı artar.
 
-  
+  [http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/dbcd956a_20161107.pdf]
 
 Bizim deneylerimizde diğer yapılmış olan deneylerden farklı olarak teknolojik aletler yardımıyla kupadaki kahveyi hareket ettirmek yerine insan gücünden faydalanılmıştır.
 
